@@ -91,6 +91,10 @@ img {
     color: var(--neutral-white)
 }
 
+.cart-cta-btn:active {
+    background: hsl(158, 37%, 20%);
+}
+
 .icon-cart {
     background: url('images/icon-cart.svg');
     background-repeat: no-repeat;
